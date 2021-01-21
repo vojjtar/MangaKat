@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaKaDownloader", "MangaKaDownloader\MangaKaDownloader.csproj", "{9A5582BE-CD23-4EE3-83E3-BA1E8D2341A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5582BE-CD23-4EE3-83E3-BA1E8D2341A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5582BE-CD23-4EE3-83E3-BA1E8D2341A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5582BE-CD23-4EE3-83E3-BA1E8D2341A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5582BE-CD23-4EE3-83E3-BA1E8D2341A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9673EDF-251E-437B-8EAE-03DE3B2313D4}
+	EndGlobalSection
+EndGlobal
