@@ -1,0 +1,24 @@
+{
+    "CZECH":
+    {
+        "downloadButton": "STÁHNOUT",
+        "path": "cesta...",
+        "showDestination": "Otevřít složku",
+        "selectPath": "vyber cestu",
+        "downloadSpeed": "Rychlost stahování: ",
+        "fast": "RYCHLE",
+        "safe": "POMALU",
+        "takeMetoTheSite": "Otevři stránku"
+    },
+    "ENGLISH":
+    {
+        "downloadButton": "DOWNLOAD",
+        "path": "path...",
+        "showDestination": "show destination",
+        "selectPath": "select path",
+        "downloadSpeed": "Download speed: ",
+        "fast": "FAST",
+        "safe": "SAFE",
+        "takeMetoTheSite": "Take me to the site"
+    }
+}
